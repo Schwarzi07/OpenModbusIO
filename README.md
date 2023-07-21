@@ -11,5 +11,5 @@ Currnetly the software is written in C++ on the Arduino platform via Visual Stud
 The hardware is curently based on Arduino and is using the Arduino Ethernet shield with the Wiznet w5500 Ethernet controller.
 I design the PCBs in KiCad and will limit myself to two layers to keep costs low and enable DIY PCB fabrication using CNC milling or other methods.
 
-# current status
-Currnetly I have basic software and a shield for an Arduino UNO.
+# Current status
+Currently I have basic software and a shield for an Arduino UNO.
